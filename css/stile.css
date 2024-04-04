@@ -1,0 +1,17 @@
+.header {
+    background: #641DBF
+}
+ .conteiner {
+    max-width: 1440px;
+    margin: 0 auto;
+ }
+ .container__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 26px 26px;
+ }
+ nav.list {
+    display: flex;
+    
+ }
